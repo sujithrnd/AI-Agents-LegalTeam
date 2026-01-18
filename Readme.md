@@ -13,7 +13,7 @@ This system processes **legal documents (PDFs)** using advanced AI models and kn
 **AI Agent Work Flow**
 <img width="1217" height="558" alt="legal_flow" src="https://github.com/user-attachments/assets/05c1ec43-e07f-4b22-987e-7516632c47f6" />
 
-** User Intreface**
+**User Intreface**
 
 <img width="1916" height="1022" alt="legal1" src="https://github.com/user-attachments/assets/cfa223c0-16f9-481a-ab57-00f3deb36d57" />
 <img width="1912" height="1026" alt="legal3" src="https://github.com/user-attachments/assets/2ccb18b9-bb9e-4e83-8406-4303c2befb72" />
