@@ -1,0 +1,8 @@
+streamlit
+agno
+duckduckgo-search
+chromadb
+openai
+ddgs
+pypdf
+
