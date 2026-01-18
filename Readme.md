@@ -10,8 +10,14 @@ This system processes **legal documents (PDFs)** using advanced AI models and kn
 🔹 Receive structured legal reports  
 
 ---
+**AI Agent Work Flow**
+<img width="1217" height="558" alt="legal_flow" src="https://github.com/user-attachments/assets/05c1ec43-e07f-4b22-987e-7516632c47f6" />
 
 ** User Intreface**
+
+<img width="1916" height="1022" alt="legal1" src="https://github.com/user-attachments/assets/cfa223c0-16f9-481a-ab57-00f3deb36d57" />
+<img width="1912" height="1026" alt="legal3" src="https://github.com/user-attachments/assets/2ccb18b9-bb9e-4e83-8406-4303c2befb72" />
+<img width="1917" height="1027" alt="legal2" src="https://github.com/user-attachments/assets/0bdfe7ec-a5b2-4ec3-855b-ce89127e6fbb" />
 
 
 ## 🛠️ Installation Guide
